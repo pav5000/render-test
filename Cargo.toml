@@ -7,4 +7,5 @@ edition = "2021"
 
 [dependencies]
 euc = "0.5.3"
-vek = "0.15.8"
+vek = "0.14.1"
+minifb = "0.23.0"
